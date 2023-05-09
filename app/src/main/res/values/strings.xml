@@ -1,0 +1,414 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">TechCook</string>
+
+    <string name="LogoTitle">Logo Title</string>
+    <string name="LogoImage">Logo Image</string>
+    <string name="Login">Log In</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="aboutustwo">About Us</string>
+    <string name="aboutus">Meet the Crew</string>
+    <string name="logging">Logging In....</string>
+
+    <string name="Appetizer">Appetizer</string>
+    <string name="Salads">Salads</string>
+    <string name="Snacks">Snacks</string>
+
+
+    <string name="Instructions">Instructions</string>
+    <string name="Ingredients">Ingredients</string>
+    <string name="RecipeInfo">Recipe Info</string>
+    <string name="OtherRecipe">Other Recipes</string>
+
+    <!-- SNACKS -->
+
+    <!-- CALAMARES -->
+
+    <string name="calamares">Crunchy Calamares Recipe in 15 Minutes</string>
+
+    <string name="calamaresDesc">There is no denying that deep-fried food is heaven-sent on any given day. Who can resist their fantastic crunch and flavor? Why do you think so many Filipino street food go through the fryer? French fries, fish balls, dynamite, and siomai are dependable picks. But what can outshine all these is a good calamares recipe.\n\n
+
+        With the help of some pantry staples and easy cooking techniques, you can already make restaurant-quality golden squid rings. Master this Pinoy-style calamares recipe to achieve a crisp coating and avoid rubbery results. The best part is it only takes 15 minutes to replicate. Next time the craving hits, bring out this recipe and get cooking.
+        </string>
+
+    <string name="calamaresIngredients">2 tbsp sriracha\n\n
+        1/2 cup Lady’s Choice Real Mayonnaise\n\n
+        1 pc Knorr Chicken Cube, mashed\n\n
+        2-3 pcs eggs, beaten\n\n
+        500 g medium squid, cleaned, peeled, and sliced into rings\n\n
+        pinch of ground black pepper\n\n
+        2 cups cooking oil\n\n
+        1/2 cup cornstarch
+        </string>
+
+    <string name="calamaresInstructions">Step 1\n
+        Make the sriracha mayo: Combine all ingredients in a bowl. Mix well and chill for 10-15 minutes.\n\n
+
+        Step 2\n
+        Mix Knorr Chicken Cube and eggs until well combined. Add squid and season with pepper.\n\n
+
+        Step 3\n
+        Heat oil in a deep-frying pan over medium flame.\n\n
+
+        Step 4\n
+        Dredge squid in cornstarch, shaking off any excess. Cook squid in batches, dropping one ring at a time. Fry until golden brown, then drain on a paper towel or wire rack. Serve immediately with sriracha mayo.
+        </string>
+
+
+    <!-- FRENCH FRIES WITH MAYO -->
+
+    <string name="frenchfries">French Fries With Chili Honey Mayo Dip</string>
+
+    <string name="frenchfriesDesc">Can’t get enough of french fries? Just wait until you start enjoying them with a homemade, sweet ‘n’ spicy mayonnaise dip. This simple mixture of chili powder, honey, and Lady’s Choice Real Mayonnaise makes everyone’s favorite crispy merienda even more satisfying.\n\n
+
+This versatile french fry dip also works for potato chips, chicken nuggets, tempura, and other deep-fried goodies. Do you prefer healthier dippers? No problem! Pair this with sliced veggies and whole wheat crackers for a nutritious treat. You can even use it in other forms: turn it into an easy salad dressing (just add water!) or add it to eggs for a fluffier scramble. It’s your new staple condiment!
+        </string>
+
+    <string name="frenchfriesIngredients">
+        1 cup Lady’s Choice Real Mayonnaise\n\n\n
+        1/4 cup honey\n\n\n
+        1 tsp chili powder\n\n\n
+        french fries, to serve
+        </string>
+
+    <string name="frenchfriesInstructions">
+        Step 1\n
+        Combine Lady’s Choice Real Mayonnaise\n and honey in a bowl; mix well.\n Add chili powder and stir well.\n\n\n
+        Step 2\n
+        Serve dip chilled or at room temperature\n with crispy french fries
+        </string>
+
+
+    <!-- PORK SANDWICH -->
+
+    <string name="pork_sandwich">Pulled Pork Sandwich</string>
+
+    <string name="porkSandwichDesc">
+        Classic sandwich ingredients prepared with a twist using Lady\'s Choice Bacon Spread. Give new life to your family\'s snack time.
+        </string>
+
+    <string name="porkSandwichIngredients">\n\n\n
+        3 pc burger bun, sliced into half, toasted\n\n\n
+        600 grams pork barbecue, cooked\n\n\n
+        ¾ cup Lady\'s Choice bacon spread\n\n\n
+        6 tbsps barbecue sauce\n\n\n
+        6 pcs dill pickles, sliced\n\n\n
+        6 slices plum tomatoes\n\n\n
+        9 slices cucumber
+        </string>
+
+    <string name="porkSandwichInstructions">
+        Step 1\n
+        Shred prepared pork barbecue (you may use your leftover). Mix together Lady’s Choice Bacon Spread and barbecue sauce.\n\n\n
+        Step 2\n
+        Arrange the shredded pork barbecue on the first half of the bun. Top with pickles, tomatoes, and cucumber then cover with the other half of the bun.
+        </string>
+
+
+    <!-- MINI PIZZA -->
+
+    <string name="mini_pizza">Mini Pizza Recipe</string>
+
+    <string name="miniPizzaDesc">
+        This simple kiddie snack recipe uses a simple homemade pizza dough topped with fresh flavors of mozzarella, ham, tomatoes and oregano.\n\nTips\n
+Par-baking ensures the dough will be fully cooked after the topping has been added. And should you decide not to use it right away, you can freeze them and just take it out of the freezer anytime you feel like baking mini pizzas.
+
+
+        </string>
+
+    <string name="miniPizzaIngredients">
+        250 ml milk\n\n\n
+        1 Knorr Beef Cube\n\n\n
+        1 cup flour\n\n\n
+        1 tbsp butter\n\n\n
+        1 tbsp grated cheese\n\n\n
+        100 g cooked ham\n\n\n
+        2 tomatoes, sliced\n\n\n
+        1 onion, cut into strips\n\n\n
+        250 g mozarrella cheese\n\n\n
+        100 g olives\n\n\n
+        dried oregano to taste
+        </string>
+
+    <string name="miniPizzaInstructions">
+        Step 1\n
+        Here’s a pizza dough recipe that will surely encourage you to make pizza more often because it’s not complicated to do and it does not contain yeast for the dough to rise.\n\n\n
+        Step 2\n
+        Let’s get started by making the dough. In a pan, over low heat, pour in the milk and allow this to simmer for only 40 seconds. Drop in the Knorr Beef Cube and allow it to dissolve. Turn off the heat and just let it cool down for about 5 minutes.\n\n\n
+        Step 3\n
+        Slowly mix in the flour, stirring well to prevent it from clumping together. Now, add the butter and the 1 tbsp cheese next.\n\n\n
+        Step 4\n
+        Transfer the dough to a work surface that is lightly coated with flour and start kneading the dough until all ingredients are well incorporated. Divide it into 4 part and shape and roll it into 4-inch diameter disks. Par-baking ensures the dough will be fully cooked after the topping has been added.  And should you decide not to use it right away, you can freeze them and just take it out of the freezer anytime you feel like baking mini pizzas.\n\n\n
+        Step 5\n
+        Once done, place the mini doughs in a baking sheet and par-bake them in a pre-heated oven until it becomes slightly brown.\n\n\n
+        Step 6\n
+        Now that our mini pizzas have been par-baked, cover them with the mozzarella cheese and arrange the ham, tomatoes, onions and olives around the top. Bake until the cheese is melted and the topping cooked.\n\n\n
+        Step 7\n
+        Now you can enjoy pizza not only for merienda but as baon, as a snack or for breakfast too. Whatever time of day, this pizza is a welcome treat!
+        </string>
+
+
+    <!-- SALAD -->
+
+    <!-- KANI SALAD -->
+
+    <string name="kani_salad">15-Minute Mango and Kani Salad</string>
+
+    <string name="kaniSaladDesc">
+        Many Filipinos dream of flying to Japan, walking the busy streets of Tokyo, and eating authentic Japanese dishes. The next best thing if you’re still saving up for that ticket? Cook an oishii feast at home! Fry up some ebi tempura, prep California maki, and make ramen from scratch – they’re easier than you think. And don’t forget to build a kani salad to round out the meal!\n\n
+        You want something light and fresh to balance out your menu. With sweet mangoes, crunchy vegetables, and crabsticks, this salad is a perfect choice. The best part? It takes 15 minutes max to whip up. Try this kani salad recipe and transport your taste buds to the Land of the Rising Sun.
+        </string>
+
+    <string name="kaniSaladIngredients">
+        1 cup Lady\'s Choice Real Mayonnaise\n\n
+        2 1/2 tbsp ketchup\n\n
+        2 tbsp pickle relish (optional)\n\n
+        salt and sugar, to season\n\n
+        2 pcs iceberg lettuce, cut into bite-sized pieces\n\n
+        1/4 pc red cabbage, sliced thinly\n\n
+        3 pcs ripe mangoes, diced\n\n
+        12 pcs Japanese crabsticks, shredded\n\n
+        1 pc cucumber, cut into strips\n\n
+        1 tsp tobiko fish roe\n\n
+        1 pc nori, cut into strips\n\n
+        wonton wrappers, cut into strips and deep-fried
+        </string>
+
+    <string name="kaniSaladInstructions">
+        Step 1\n
+        Make the Thousand Island dressing: Combine all ingredients in a bowl. Mix well and refrigerate until ready to serve.\n\n
+        Step 2\n
+        Combine lettuce, cabbage, mangoes, crabsticks, and cucumber in a bowl. Drizzle prepared dressing on top and toss to combine.\n\n
+        Step 3\n
+        Top salad with tobiko, nori strips, and fried wonton. Serve immediately.
+        </string>
+
+
+    <!-- PAKO SALAD -->
+
+    <string name="pako_salad">Summer Pako Salad With a Unique Tamarind Dressing</string>
+
+    <string name="pakoSaladDesc">
+        Summer is never complete without beach trips. And in every outing, the food you prepare is central to the day’s enjoyment. Are you looking for ways to level up the usual spread of adobo, inihaw na baboy, and chicken barbecue? Introduce a simple yet refreshing pako salad to balance out your menu.\n\n
+        Pinoy ensaladas are a terrific way to reduce the umay factor an all-meat lineup brings. So for your next excursion, skip the meticulous salads, snazzy toppings, and creamy dressings. Go for something light and bright, like this pako salad recipe with a unique tamarind vinaigrette. Plus, it’s easy to customize and takes no time to prep! Ready to master how to make pako salad?
+        </string>
+
+    <string name="pakoSaladIngredients">
+        1/2 cup vinegar\n\n
+        2 tsp minced garlic\n\n
+        1 1/2 tbsp honey\n\n
+        1-2 tsp Knorr Sinigang Sa Sampalok Mix\n\n
+        1 cup canola oil\n\n
+        250 g fresh pako (fiddlehead fern), cut into 2-inch pcs\n\n
+        2 pcs salted eggs, peeled and quartered\n\n
+        3 pcs tomatoes, quartered\n\n
+        1/4 cup fried dilis
+        </string>
+
+    <string name="pakoSaladInstructions">
+        Step 1\n
+        Make the tamarind vinaigrette: Combine vinegar, garlic, honey, and Knorr Sinigang sa Samaplok Mix in a bowl; stir well. Slowly whisk in oil. Set aside.\n\n
+        Step 2\n
+        Arrange pako, salted eggs, tomatoes, and dilis on a serving platter. Drizzle tamarind vinaigrette on top. Toss to combine. Serve immediately.
+        </string>
+
+
+    <!-- CAESAR SALAD -->
+
+    <string name="caesar_salad">Caesar Salad</string>
+
+    <string name="caesarSaladDesc">
+        Prepare a Caesar Salad with ease thanks to Lady\'s Choice Caesar Salad Dressing. Add a Filipino twist to the usual salad recipe.
+        </string>
+
+    <string name="caesarSaladIngredients">
+        1 head romaine lettuce hearts\n\n\n
+        3 pcs hard-boiled egg, quartered\n\n\n
+        1 tbsp bacon, fried and chopped\n\n\n
+        1 tbsp Parmesan cheese, grated\n\n\n
+        1/4 cup croutons
+        </string>
+
+    <string name="caesarSaladInstructions">
+        Step 1\n
+        In a bowl, toss romaine lettuce with Lady’s Choice Caesar Dressing and arrange on plate.\n\n\n
+        Step 2\n
+        Top with egg, bacon, parmesan cheese, and croutons.
+        </string>
+
+
+    <!-- CLASSIC MACARONI SALAD -->
+
+    <string name="macaroni_salad">Classic Macaroni Salad</string>
+
+    <string name="macaroniSaladDesc">
+        Our signature classic macaroni salad is loaded with ingredients made extra creamy with Lady\'s Choice Real Mayonnaise. Try our easy-to-follow recipe.
+        </string>
+
+    <string name="macaroniSaladIngredients">
+        470 ml Lady\'s Choice Real mayonnaise\n\n
+        200 grams salad macaroni\n\n
+        1/4 cup minced carrots\n\n
+        1 tbsp finely chopped onions\n\n
+        1/3 cup pickle relish\n\n
+        2/3 cup pineapple tidbits, drained and sliced (reserved juice)\n\n
+        2/3 cup cooked shredded chicken breast\n\n
+        1/2 cup cheese, diced\n\n
+        2 tbsp white sugar\n\n
+        pinch ground black pepper\n\n
+        iodised salt, to taste
+        </string>
+
+    <string name="macaroniSaladInstructions">
+        Step 1\n
+        Cook the macaroni and the chicken. Set aside, covered.\n\n\n
+        Step 2\n
+        Chop the ingredients (carrots, cheese, onions, pickle relish, pineapple, ham, and chicken).\n\n\n
+        Step 3\n
+        Combine the ingredients and fold-in with Lady’s Choice Real Mayonnaise, then toss well. Season with sugar, salt, and pepper to taste. Chill before serving.
+        </string>
+
+
+    <!-- APPETIZERS -->
+
+    <!-- THREE-CHEESE MEGA MELT -->
+
+    <string name="cheese_melt">Three-Cheese Mega Melt</string>
+
+    <string name="cheeseMeltDesc">
+        Make this easy and delicious three-cheese dip recipe for a crowd! Serve with tortilla chips and you have a perfect appetizer for all your parties!
+        </string>
+
+    <string name="cheeseMeltIngredients">
+        1 ¼ cup cheddar cheese\n\n\n
+        5 cup Lady\'s Choice ham spread\n\n\n
+        1 ¼ cup cheddar cheese spread\n\n\n
+        2 ½ cup mozzarella cheese\n\n\n
+        2 ½ cup ham, chopped
+        </string>
+
+    <string name="cheeseMeltInstructions">
+        Step 1\n
+        In an oven-safe bowl, mix all the ingredients before broiling the batch in a toaster oven until all the cheese has melted and the ham has just heated through.\n\n
+        Step 2\n
+        Serve in small bowls with desired appetizers.
+        </string>
+
+
+    <!-- CREAMY EGGS -->
+
+    <string name="creamy_eggs">Creamy Deviled Eggs Recipe for Your Next House Party</string>
+
+    <string name="creamyEggsDesc">
+        Deviled eggs are an appetizer commonly seen at many parties and events. Ancient Romans served seasoned boiled eggs to start feasts and large gatherings. Offering canapes while entertaining guests was supposedly a common practice for wealthy Romans at the time.\n\n
+        However, a recipe from 13th-century Spain is the one that closely resembles deviled eggs of modern times. Copies of the earlier recipe show ingredients like onion juice, pepper, and cilantro mashed into boiled egg yolks. It also had a fermented sauce called murri, salt, and oil. The mix was stuffed into hollowed egg whites. However, the Spanish instructions called for the split eggs to be held back together with a pepper-topped toothpick instead of today\'s halved look.\n\n
+        It was in the late 1800s when American deviled eggs made their appearance in local news. In 1896, cookbooks recommended adding mayonnaise to the formula. The classic recipe is the one that stuck. Since then, this quintessential appetizer-snack has experienced only minor changes.\n\n
+        Entrées may not be standards in the Filipino party menu, but there is no reason they shouldn\’t be. One of the simplest morsels to prepare for your next handaan is deviled eggs. This beginner deviled eggs recipe can turn any affair into an egg-citing one!\n\n
+        </string>
+
+    <string name="creamyEggsIngredients">
+        12 hard-boiled eggs\n\n
+        2/3 cup Lady\'s Choice real mayonnaise\n\n
+        1 tbsp yellow mustard\n\n
+        1 tsp salt\n\n
+        pinch of cayenne pepper\n\n
+        pinch of paprika
+        </string>
+
+    <string name="creamyEggsInstructions">
+        Step 1\n
+        Peel off shell then slice each hard-boiled egg lengthwise. Carefully separate the yellow yolks from the egg whites and place the yolks in a mixing bowl. Mash the yolks together with a fork to remove clumps.\n\n\n
+        Step 2\n
+        Add in the Lady’s Choice Real Mayonnaise and mustard. With a fork, whip the mixture together, removing as many small clumps as possible. Add in remaining ingredients, excluding the paprika.\n\n\n
+        Step 3\n
+        Using a dessert decorator tool or pastry bag, pipe the yolk mixture into the hollowed egg whites.\n\n\n
+        Step 4\n
+        Garnish the finished products with a hint of paprika
+        </string>
+
+
+    <!-- CHICKEN RICE BALLS -->
+
+    <string name="chicken_rice_balls">Chicken Rice Balls Recipe</string>
+
+    <string name="chickenRiceBallsDesc">
+        This simple and delicious appetizers dish uses the rich taste of chicken flavored rice mixed with sautéed ground chicken with added stuffed cheese.\n\n
+        Tips\n\n
+        Remember to place the coated chicken balls in the chiller to at least 10-15 minutes to let the breadcrumbs to set and stick with the chicken balls before frying.
+
+        </string>
+
+    <string name="chickenRiceBallsIngredients">
+        1/2 cup Japanese rice\n\n
+        1 cup Knorr Chicken stock (water and ½ pc Knorr Chicken Cube)\n\n
+        1 tbsp oil\n\n
+        1 tbsp white onions, chopped\n\n
+        1/4 kg ground chicken\n\n
+        1/2 pc Knorr Chicken Cube\n\n
+        1/4 cup mozzarella or quickmelt cheese\n\n
+        1/2 cup all purpose flour\n\n
+        2 pcs eggs\n\n
+        1 cup Japanese bread crumbs\n\n
+        2 cups oil for frying
+        </string>
+
+    <string name="chickenRiceBallsInstructions">
+        Step 1\n
+        It only takes three steps to cook this easy to follow rice balls recipe. For rice that’s more flavourful, you need to cook your batch of rice in the Knorr Chicken stock. Set aside.\n\n
+        Step 2\n
+        Now, grab a pan and turn the heat to high. Pour a bit of oil and throw in the onions before adding the ground chicken and Knorr Chicken Cube. Sauté until the chicken is cooked through. Remove from heat and set aside to cool.\n\n
+        Step 3\n
+        Get a bowl and place the flavored cooked rice and chicken together. Mix them well and form into a ball. Stuffed the mozzarella cheese inside. Dredge the balls in flour, dip in beaten egg and roll in breadcrumbs. Place in the chiller for 10 mins to set. Deep fry them in hot oil until the outer crust becomes brown and crisp.\n\n
+        Step 4\n
+        Whether it’s a snack or an appetizer, these Chicken Rice balls will be the talk of the whole family all day long.
+        </string>
+
+
+    <!-- CREAMY STUFFED PRAWNS -->
+
+    <string name="creamy_stuffed_prawns">Creamy Stuffed Prawns</string>
+
+    <string name="creamyPrawnsDesc">
+        Upgrade a stuffed prawns recipe with Lady\'s Choice Real Mayonnaise. Whether as an appetizer or ulam, make it memorable with this shrimp with mayo recipe.
+        </string>
+
+    <string name="creamyPrawnsIngredients">
+                24 pcs tiger prawns, trimmed\n\n\n1 pc onion, chopped\n\n\n6 cloves garlic, chopped\n\n\n4 tbsps oil\n\n\n
+                1 cup fresh button mushrooms, chopped\n\n\n2 cup Lady\'s Choice real mayonnaise\n\n\n1 cup soft or any quick melting cheese, grated\n\n\n
+                1 cup breadcrumbs\n\n\n2 pc lemon, sliced into wedges\n\n\n
+        </string>
+
+    <string name="creamyPrawnsInstructions">
+                Step 1\n
+                Lay prawns on chopping board. Butterfly then remove the meat while keeping head and tail intact. Roughly chop meat, season, and set aside.\n\n\n
+                Step 2\n
+                Place shells in boiling water until cooked and drain from liquid.\n\n\n
+                Step 3\n
+                Saute onion and garlic in oil. Add mushrooms and chopped prawns. Saute until cooked then stir in Lady\'s Choice Real Mayonnaise. Fill prawn shells with the sauteed mixture.\n\n\n
+                Step 4\n
+                Top with cheese and breadcrumbs then bake or toast until the cheese melts. Serve with lemon wedges.
+        </string>
+
+
+    <!-- ABOUT US -->
+    <string name="johnlouieubias">John Louie Ubias</string>
+    <string name="louieabout">
+        John Louie Ubias is an exceptional individual who excels in multiple domains.
+        As a programmer, his coding skills are unmatched, allowing him to bring innovative solutions to life.
+        In addition, his keen eye for detail and artistic flair make him an exceptional photo editor, transforming ordinary images into works of art.
+    </string>
+
+    <string name="joshdez">Benedict Joshua Fernandez</string>
+    <string name="joshabout">
+        Josh is a programmer who codes in a unique way to achieve the desired output his clients require of him.
+        He is also a digital artist who creates anime-style art to bring his imagination to life.
+    </string>
+
+
+    <string name="kayde">Jeremee Cayde</string>
+    <string name="kaydeabout">
+        I am Jeremee Cayde, a resourceful and goal-oriented student preparing for the future of the IT industry.
+        With a keen eye on upcoming trends and technologies,
+        I am dedicated to staying ahead of the curve and being a driving force in shaping the future of IT.
+    </string>
+</resources>

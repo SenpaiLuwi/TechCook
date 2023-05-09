@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools">
+    <application
+        android:allowBackup="true"
+        android:dataExtractionRules="@xml/data_extraction_rules"
+        android:fullBackupContent="@xml/backup_rules"
+        android:icon="@drawable/logo"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.Finalproject"
+        tools:targetApi="31">
+        <activity
+            android:name=".aboutus"
+            android:exported="false" />
+        <activity
+            android:name=".creamyprawnsRecipe"
+            android:exported="false" />
+        <activity
+            android:name=".riceballsRecipe"
+            android:exported="false" />
+        <activity
+            android:name=".creamyeggsRecipe"
+            android:exported="false" />
+        <activity
+            android:name=".cheesemeltRecipe"
+            android:exported="false" />
+        <activity
+            android:name=".macaronisaladRecipe"
+            android:exported="false" />
+        <activity
+            android:name=".caesarsaladRecipe"
+            android:exported="false" />
+        <activity
+            android:name=".pakosaladRecipe"
+            android:exported="false" />
+        <activity
+            android:name=".kanisaladRecipe"
+            android:exported="false" />
+        <activity
+            android:name=".minipizzaRecipe"
+            android:exported="false" />
+        <activity
+            android:name=".porksandwichRecipe"
+            android:exported="false" />
+        <activity
+            android:name=".frenchfriesRecipe"
+            android:exported="false" />
+        <activity
+            android:name=".calamaresRecipe"
+            android:exported="false" />
+        <activity
+            android:name=".MainActivity"
+            android:exported="false" />
+        <activity
+            android:name=".loginLoadingScreen"
+            android:exported="false" />
+        <activity
+            android:name=".login"
+            android:exported="false" />
+        <activity
+            android:name=".Loading"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>
