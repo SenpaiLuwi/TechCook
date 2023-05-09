@@ -26,7 +26,7 @@ How to Install:
 1. Use the Link fo the installation (Make sure that you are in Mobile): 
     https://drive.google.com/file/d/11dV_dJYVDjw7StZgdv-xk5OuYzX5HPGs/view?usp=share_link
 
-2. Copy the link to your clipboard. if you click only a link an error message will appear "Fixed Access to doc-0s-54-docs.googleusercontent.com was denied".
+2. Copy the link to your clipboard. and go to google and paste the link. If you click only a link an error message will appear "Fixed Access to doc-0s-54-docs.googleusercontent.com was denied".
 
 3. Click the "Download" button and click on google package installer after that wait for it to install.
 
@@ -34,4 +34,6 @@ How to Install:
 
 5. Once it is finished click on open and if a warning message occured, ignore or countinue anyway.
 
-6. You can now use the "TechCook" app! Enjoy!
+6. username: admin password: admin123
+
+7. You can now use the "TechCook" app! Enjoy!
