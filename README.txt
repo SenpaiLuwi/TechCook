@@ -10,7 +10,7 @@ https://github.com/SenpaiLuwi/TechCook
 
 Credits to:
 John Louie Ubias
-https://www.facebook.com/SenpaiLuwi
+https://www.facebook.com/SenpaiLuwii
 https://github.com/SenpaiLuwi
 
 Joshua Benedict Fernandez
